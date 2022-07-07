@@ -1,1 +1,6 @@
-print "I am a test file, and you are not."
+
+def printo():
+
+    print ("I am a test file.")
+
+printo()
